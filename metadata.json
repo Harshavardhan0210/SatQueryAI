@@ -1,0 +1,8 @@
+{
+  "name": "SatQueryAI",
+  "description": "Explainable satellite change-detection and query assistant powered by deterministic spectral indices and grounded AI narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
